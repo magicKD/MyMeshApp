@@ -96,7 +96,8 @@ public:
 			int v = 0;
 			if (nodepair.first != u) v = nodepair.first;
 			else v = nodepair.second;
-			ret.push_back((*p_nodeSet)[v]);
+			ret.push_back(this->p_nodeSet->at(v));
+			//ret.push_back((*p_nodeSet)[v]);
 		}
 		return ret;
 	}

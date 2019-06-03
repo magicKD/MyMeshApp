@@ -343,3 +343,2604 @@ iter 0 : cost time : 1 ms.
 
 2019-06-03 14:23:09:
 iter 1 : cost time : 36 ms.
+
+2019-06-03 14:34:39:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 14:34:39:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 14:34:39:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 14:34:39:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 14:34:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 14:34:42:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 14:34:42:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 14:34:42:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 14:34:44:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 14:34:44:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 14:34:44:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 14:34:44:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 15:09:45:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:09:45:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 15:09:45:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 15:09:45:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 15:11:34:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:11:34:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 15:11:34:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 15:11:34:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 15:15:16:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:15:16:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 15:15:16:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 15:15:16:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 15:15:28:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:15:28:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 15:15:28:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 15:15:28:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 15:15:36:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:15:36:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 15:15:36:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 15:15:36:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 15:15:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:15:42:
+iter 1 : cost time : 0 ms.
+
+2019-06-03 15:15:42:
+iter 2 : cost time : 0 ms.
+
+2019-06-03 15:15:42:
+iter 3 : cost time : 0 ms.
+
+2019-06-03 15:49:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:49:57:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:54:56:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:55:50:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:56:18:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:57:49:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 15:58:07:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:37:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:01:38:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:14:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:42:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:02:43:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:12:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.
+
+2019-06-03 16:09:13:
+iter 0 : cost time : 0 ms.

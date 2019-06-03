@@ -16,5 +16,6 @@ public:
 */
 class DefaultAttribute : public Attribute{
 public:
-	double value;
+	char buffer[80];
+	//double value;
 };
