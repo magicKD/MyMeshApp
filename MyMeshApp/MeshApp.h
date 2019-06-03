@@ -3,6 +3,7 @@
 #include "Mesh\Mesh.h"
 #include "Operation\Operation.h"
 #include "Operation\Log.h"
+#include "Operation\TemporaryResult.h"
 
 class MeshApp {
 private:
@@ -12,6 +13,7 @@ private:
 
 	void systemInit() {
 		myOpt->registerObserver(new Log());
+		myOpt->registerObserver(new TemporaryResult());
 	}
 
 public:

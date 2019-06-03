@@ -160,6 +160,7 @@
     <ClInclude Include="Operation\Log.h" />
     <ClInclude Include="Operation\Operation.h" />
     <ClInclude Include="Operation\Observer.h" />
+    <ClInclude Include="Operation\TemporaryResult.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>

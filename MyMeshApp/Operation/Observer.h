@@ -26,6 +26,9 @@ public:
 
 	virtual void update(const string & msg) = 0;
 
+	//用来记录临时结果
+	virtual void update(Mesh * myMesh){}
+
 	virtual ~IObserver(){}
 };
 
@@ -47,6 +50,13 @@ public:
 		for (auto it = m_observers.begin(); it != m_observers.end(); ++it) {
 			IObserver * p = *it;
 			p->update(msg);
+		}
+	}
+	
+	virtual void notifyObserver(Mesh * myMesh) {
+		for (auto it = m_observers.begin(); it != m_observers.end(); ++it) {
+			IObserver * p = *it;
+			p->update(myMesh);
 		}
 	}
 

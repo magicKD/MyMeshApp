@@ -13,7 +13,7 @@ public:
 
 	MeshElement(Attribute * attr = NULL, int id = 0) 
 		: attr(attr), id(id){
-		if (attr == NULL) this->attr = new Attribute();
+		if (attr == NULL) this->attr = new DefaultAttribute();
 	}
 
 	//ĞéÎö¹¹º¯Êı

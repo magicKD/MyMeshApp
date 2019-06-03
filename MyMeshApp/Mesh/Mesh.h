@@ -8,6 +8,7 @@
 #include <iostream>
 #include <map>
 #include <unordered_map>
+#include <string>
 
 using namespace std;
 
@@ -98,6 +99,15 @@ public:
 			ret.push_back((*p_nodeSet)[v]);
 		}
 		return ret;
+	}
+
+	string toString() {
+		string str = to_string(nodeNum) + " " + to_string(edgeNum) + "\n";
+		//±ßµÄÍØÆË½á¹¹
+		for (auto p : edge2node) {
+			str += to_string(p.second.first) + " " + to_string(p.second.second) + "\n";
+		}
+		return str;
 	}
 
 	void swapWithBuffer() {
