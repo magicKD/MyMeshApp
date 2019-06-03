@@ -1,0 +1,39 @@
+
+2019-06-02 21:08:42:
+iter 3 : cost time : 0 s.
+
+2019-06-02 21:49:44:
+iter 0 : cost time : 0 s.
+
+2019-06-02 21:49:44:
+iter 1 : cost time : 0 s.
+
+2019-06-02 21:49:44:
+iter 2 : cost time : 0 s.
+
+2019-06-02 21:49:44:
+iter 3 : cost time : 0 s.
+
+2019-06-02 21:50:21:
+iter 0 : cost time : 0 ms.
+
+2019-06-02 21:50:21:
+iter 1 : cost time : 0 ms.
+
+2019-06-02 21:50:21:
+iter 2 : cost time : 0 ms.
+
+2019-06-02 21:50:21:
+iter 3 : cost time : 0 ms.
+
+2019-06-02 21:51:03:
+iter 0 : cost time : 0 ms.
+
+2019-06-02 21:51:03:
+iter 1 : cost time : 0 ms.
+
+2019-06-02 21:51:03:
+iter 2 : cost time : 0 ms.
+
+2019-06-02 21:51:03:
+iter 3 : cost time : 0 ms.
