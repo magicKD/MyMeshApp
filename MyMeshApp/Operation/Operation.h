@@ -45,8 +45,8 @@ public:
 			//计时
 			cur = time(NULL);
 			string msg = "iter " + to_string(iter) + " : cost time : " + to_string((cur - last) * 1000 / CLOCKS_PER_SEC) + " ms.";
-			this->notifyObserver(msg); //通知观察者
-			this->notifyObserver(myMesh);
+			//this->notifyObserver(msg); //通知观察者
+			//this->notifyObserver(myMesh);
 
 			//更新节点
 #ifdef OPENMP_ALLOW
